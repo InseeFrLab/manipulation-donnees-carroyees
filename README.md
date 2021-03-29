@@ -6,4 +6,5 @@ Ce dépot Github contient les codes Python de l’atelier data journalistes du 2
 - 2_visualisation_variable_menage_pauvre.ipynb : un exemple de visualisation à partir de la variable ménage pauvre des données carroyées
 
 Eléments de bibliographie :
-[https://www.cairn.info/revue-raisons-politiques-2014-2-page-23.htm](Le piège territorial - Les présupposés géographiques de la théorie des relations internationales - John Agnew 2014) 
+
+[Le piège territorial - Les présupposés géographiques de la théorie des relations internationales - John Agnew 2014](https://www.cairn.info/revue-raisons-politiques-2014-2-page-23.htm)
